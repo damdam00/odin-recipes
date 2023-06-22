@@ -1,0 +1,21 @@
+.background {
+    background-color: blanchedalmond;
+}
+
+h1,
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul,
+ol {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#back {
+    font-family: 'Courier New', Courier, monospace;
+}
