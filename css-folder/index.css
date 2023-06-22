@@ -1,0 +1,15 @@
+.background {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.listbox {
+    text-align: center;
+    list-style-position: inside;
+    background-color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+}
