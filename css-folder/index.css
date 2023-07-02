@@ -23,3 +23,10 @@ h1 {
     border: 2px solid orangered;
     padding: 5px 0px;
 }
+
+li {
+    padding: 5px;
+    border: 1px solid cornflowerblue;
+    background-color: coral;
+    margin: 4px;
+}
