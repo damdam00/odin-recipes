@@ -5,11 +5,21 @@
 h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    margin: 50px 800px 0px 800px;
+    border: 2px solid orangered;
+    background-color: chocolate;
+}
+
+.listdiv {
+    margin: 200px 800px;
 }
 
 .listbox {
     text-align: center;
     list-style-position: inside;
     background-color: chocolate;
+    color: chocolate;
     font-family: 'Courier New', Courier, monospace;
+    border: 2px solid orangered;
+    padding: 5px 0px;
 }
